@@ -1,0 +1,1 @@
+Guarde nesta pasta os documentos que registram pendências do projeto e não serão incorporadas ao software
